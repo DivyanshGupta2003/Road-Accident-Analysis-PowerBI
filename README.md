@@ -40,7 +40,7 @@ Client wanted:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)
 
 ---
 
